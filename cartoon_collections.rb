@@ -14,5 +14,4 @@ def list_dwarves(array)
   array.each_with_index { |person, index|
     array[person] = index 
     }
-  end 
 end
